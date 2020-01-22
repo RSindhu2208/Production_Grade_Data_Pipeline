@@ -1,6 +1,4 @@
 # Production-Grade-Data-Pipeline
- 
-# Production-Grade-Data-Pipeline
 
 # Car-Plate-Recognition-Project
 End-to-End pipeline for car number plate recognition using Deep Learning
